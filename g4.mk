@@ -134,8 +134,8 @@ PRODUCT_PACKAGES += \
     charger_res_images
 
 # Camera
-PRODUCT_PACKAGES += \
-    Snap
+# PRODUCT_PACKAGES += \
+#     Snap
 
 # Gello
 PRODUCT_PACKAGES += \

@@ -1,0 +1,29 @@
+[
+  {
+    "repository": "android_kernel_lge_msm8992",
+    "target_path": "kernel/lge/msm8992",
+    "remote": "cm"
+  },
+  {
+    "repository": "android_hardware_sony_thermanager",
+    "target_path": "hardware/sony/thermanager",
+    "remote": "cm"
+  },
+  {
+    "repository": "android_hardware_sony_timekeep",
+    "target_path": "hardware/sony/timekeep",
+    "remote": "cm"
+  },
+  {
+    "repository": "themuppets/proprietary_vendor_lge",
+    "target_path": "vendor/lge",
+    "remote": "tm",
+    "revision": "cm-14.1"
+  },
+  {
+    "repository": "themuppets/proprietary_vendor_qcom_binaries",
+    "target_path": "vendor/qcom/binaries",
+    "remote": "tm",
+    "revision": "cm-14.1"
+  }
+]
